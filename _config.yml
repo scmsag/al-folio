@@ -102,8 +102,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Bulletin # blog_name will be displayed in your blog page
 blog_nav_title: Seminars # your blog must have a title for it to be displayed in the nav bar
-blog_description:
-permalink: /blog/:year/:title/
+blog_description: Please click the title for details.
+permalink: /seminar/:year/:title/
 
 # Pagination
 pagination:
@@ -209,9 +209,9 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+    year: '/seminar/:year/'
+    tag: '/seminar/tag/:name/'
+    category: '/seminar/category/:name/'
 
 display_tags: ['AG','NT'] # this tags will be dispalyed on the front page of your blog
 
