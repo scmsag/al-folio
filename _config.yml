@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: SCMS AG # the website title (if blank, full name will be used instead)
-first_name: Algebraic Geometry 
+first_name: Beta
 middle_name: 
 last_name: SCMS 
 email: scmsag@outlook.com 
@@ -14,7 +14,7 @@ footer_text: >
 keywords: Algebraic Geometry, Moduli Space  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ♾️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://scmsag.github.io # the base hostname & protocol for your site
 baseurl:
