@@ -19,3 +19,8 @@ social: false # includes social icons at the bottom of the page
 
 This is the homepage for algebraic geometry seminar in SCMS.
 
+## Recent seminars
+
+1. Learning Seminar (Moduli Theory and Stability of Projective Varieties), [2022-Fall](#)
+2. Regular Seminar, [2022-Fall](#)
+
