@@ -17,4 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-This is the homepage for algebraic geometry seminar in SCMS, supervised by Zhiyuan Li.
+This is the homepage for algebraic geometry seminar in SCMS.
+
+![SCMSLogo](/assets/img/SCMS.png)
