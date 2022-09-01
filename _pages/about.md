@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Shanghai Center for Mathematical Sciences</a>Songhu Road No.2005, Shanghai, China.
-
+subtitle: <a href='https://scms.fudan.edu.cn'>Shanghai Center for Mathematical Sciences</a> 
 # profile: 
 #   align: right
 #   image: prof_pic.jpg
@@ -15,7 +14,7 @@ subtitle: <a href='#'>Shanghai Center for Mathematical Sciences</a>Songhu Road N
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 This is the homepage for algebraic geometry seminar in SCMS, supervised by Zhiyuan Li.
